@@ -2,9 +2,9 @@
 %% vim: ts=4 sw=4 ft=erlang noet
 %%%-------------------------------------------------------------------
 %%% @author Andrew Bennett <potatosaladx@gmail.com>
-%%% @copyright 2014, Andrew Bennett
+%%% @copyright 2014-2018, Andrew Bennett
 %%% @doc ZMTP-NULL/3.1
-%%%      http://rfc.zeromq.org/spec:37/ZMTP
+%%%      https://rfc.zeromq.org/spec:37/ZMTP/
 %%% @end
 %%% Created :  25 Sep 2014 by Andrew Bennett <potatosaladx@gmail.com>
 %%%-------------------------------------------------------------------
